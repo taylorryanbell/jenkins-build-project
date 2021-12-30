@@ -1,4 +1,4 @@
-## Setup
+## Setup!
   - Create a fork of this repo with the following naming convention ```[first-name]-[last-name]-jenkins-build-project```
   - login to the jenkins console with supplied credentials
     
