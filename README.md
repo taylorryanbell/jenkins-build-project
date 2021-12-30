@@ -1,3 +1,1 @@
 # jenkins-build-project
-
-test
