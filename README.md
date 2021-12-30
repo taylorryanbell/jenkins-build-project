@@ -6,7 +6,10 @@
    
 ## Project
   You need to create two jenkins build projects for each branch of this repo. ```simple``` and ```build-required```.
-    
+  
+  The jenkins webhook payload url for this project is ```http://3.21.225.172:8081/github-webhook/```
+  
+  
 ## ```simple```
   1. Create a jenkins build project with the naming convention [first-name]-[last-name]-simple
   2. The build needs to trigger anytime there is a push to the ```simple``` branch
