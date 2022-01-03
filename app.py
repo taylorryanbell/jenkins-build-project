@@ -29,7 +29,7 @@ file.write(f"""
 
 <body style="overflow: hidden; background-color: ghostwhite;">
   <div style="height: 100vh; width: 100vw; display: flex; justify-content: center; align-items: center">
-    <div style="font-family: 'Lobster Two'; font-size: 15rem;">PIE: {numpy.pi}</div>
+    <div style="font-family: 'Lobster Two'; font-size: 15rem;">PI: {numpy.pi}</div>
   </div>
 </body>
 
