@@ -3,7 +3,7 @@ import sys
 import numpy
 
 if len(sys.argv) != 2:
-    print("no file path")
+    print("incorrect argument amount")
     exit(1)
 
 file_path = sys.argv[1]
